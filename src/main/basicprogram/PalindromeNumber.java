@@ -15,11 +15,11 @@ public class PalindromeNumber
          }
          if(no==rev)
          {
-             System.out.println(no+" No is Palindrome");
+             System.out.println(no+ " No is Palindrome");
          }
          else
          {
-             System.out.println(no+" No no Palindrome");
+             System.out.println(no+ " No no Palindrome");
          }
 
      }
